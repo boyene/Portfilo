@@ -1,14 +1,21 @@
 # 💼 Portfolio Website
 
-This is a personal portfolio website to showcase my projects, skills, and experience as a **Java Full-Stack Developer**. The site includes information about my background, completed projects, technical skills, and ways to contact me.
+Welcome to my personal portfolio website, designed to showcase my projects, skills, and experience as a Java Full-Stack Developer. This site provides an overview of my background, a detailed list of completed projects, my technical skills, and ways to get in touch with me.
 
 ## 🌟 Features
 
 - **🏠 Home Page:** Introduction and summary of my professional profile.
-- **💻 Projects:** A detailed list of the key projects I've worked on, including descriptions, technologies used, and links to the source code or live demos.
+- **💻 Projects:** A detailed list of key projects I've worked on, including descriptions, technologies used, and links to the source code or live demos.
 - **🛠 Skills:** A showcase of my technical skills, including programming languages, frameworks, databases, and tools.
 - **✉️ Contact:** A contact form that allows users to reach out to me, with form validation and submission functionality.
-- **📱 Responsive Design:** The website is designed to be fully responsive, ensuring it looks great on all devices (mobile, tablet, desktop).
+- **📱 Responsive Design:** The website is fully responsive, ensuring it looks great on all devices (mobile, tablet, desktop).
+
+## 🛠 Portfilo
+
+###  Screenshot
+![Project Screenshot](https://res.cloudinary.com/dzmws75jp/image/upload/v1725949737/Screenshot_2024-09-10_112956_ohetad.png)
+
+
 
 ## 🛠 Tech Stack
 
