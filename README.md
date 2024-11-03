@@ -17,7 +17,7 @@ Welcome to my personal portfolio website, designed to showcase my projects, skil
 
 
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Spring Boot (optional for dynamic portfolio management)
